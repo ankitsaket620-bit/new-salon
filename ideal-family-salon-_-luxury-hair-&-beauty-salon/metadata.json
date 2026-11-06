@@ -1,0 +1,6 @@
+{
+  "name": "Ideal Family Salon | Luxury Hair & Beauty Salon",
+  "description": "Premier luxury hair, beauty and bridal styling salon in Arera Colony, Bhopal. Experience bespoke hair transformations, luxury facials, and couture bridal styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
